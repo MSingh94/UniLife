@@ -13,9 +13,9 @@ function Header() {
       </div>
       <div className="text-container">
         <AiOutlineHeart style={{marginRight:"5px"}}/>
-        <p>Shortlist</p>
+        <p style={{textShadow:'none'}}>Shortlist</p>
         <BsEnvelope style={{marginRight:"5px" , marginLeft:"25px"}}/>
-        <p>Contact Us</p>
+        <p style={{textShadow:'none'}}>Contact Us</p>
       </div>
     </div>
   )

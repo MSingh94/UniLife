@@ -1,0 +1,25 @@
+.city-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 430px;
+    width: 480px;
+    align-items: center;
+    border-radius: 20px;
+    font-family: 'Epilogue', sans-serif;
+    color: white;
+    margin: 20px;
+    
+}
+
+h4 {
+    font-size: 50px;
+    margin-bottom: -8px;
+
+}
+
+.prop-count{
+    font-size: 18px;
+    margin-bottom: 45px;
+
+}
